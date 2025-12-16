@@ -1,5 +1,5 @@
 # SPPD-State-Policy-Index
-State policy data, index, and replication code to create the SPPD State Policy Index
+State policy data, index, and replication code to create the 1980-2023 SPPD State Policy Index
 *******************************************************************************
 Date: December 16, 2025
 
